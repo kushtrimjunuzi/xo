@@ -1,0 +1,133 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "VCawbHjpmygVvZCwdj2KPOJ8Rtw=",
+			"path": "github.com/alexflint/go-arg",
+			"revision": "e6fdb157e91f007265d9db6bbc7029d18bab4f6b",
+			"revisionTime": "2016-09-14T01:47:19Z"
+		},
+		{
+			"checksumSHA1": "pA/IgZAUBy3vrKT2z+7v7xHw/N8=",
+			"path": "github.com/denisenkom/go-mssqldb",
+			"revision": "fbf0a491e5ec011522c8870da9b0553135e2f9da",
+			"revisionTime": "2016-08-14T16:33:24Z"
+		},
+		{
+			"checksumSHA1": "XffqQIcep1INkknFt0SBPTKo9zI=",
+			"path": "github.com/gedex/inflector",
+			"revision": "91797f1712fd58f224781be1080b8613d096187e",
+			"revisionTime": "2016-04-09T08:19:48Z"
+		},
+		{
+			"checksumSHA1": "jEXpLrWXoQvH/zk1lW5Si0swr6Y=",
+			"path": "github.com/go-sql-driver/mysql",
+			"revision": "0b58b37b664c21f3010e836f1b931e1d0b0b0685",
+			"revisionTime": "2016-08-02T11:38:42Z"
+		},
+		{
+			"checksumSHA1": "o4as5LXoftIUYRbIhUqat3UpJcQ=",
+			"path": "github.com/knq/dburl",
+			"revision": "6fda1305c487d968337ce642fe315c7812b6cd59",
+			"revisionTime": "2016-07-14T15:02:23Z"
+		},
+		{
+			"checksumSHA1": "xflzN/swCnxR18pDoE90Bn+dJPs=",
+			"path": "github.com/knq/xo/examples/mssql/models",
+			"revision": "c4e043e1633518f1794d58105726225597a51269",
+			"revisionTime": "2016-10-20T17:27:32Z"
+		},
+		{
+			"checksumSHA1": "3D+EfoqlZfTko5m1+rtwOUpi/3o=",
+			"path": "github.com/knq/xo/examples/mysql/models",
+			"revision": "c4e043e1633518f1794d58105726225597a51269",
+			"revisionTime": "2016-10-20T17:27:32Z"
+		},
+		{
+			"checksumSHA1": "493k4unA15rPrj3rMjJbUCV1H6w=",
+			"path": "github.com/knq/xo/examples/oracle/models",
+			"revision": "c4e043e1633518f1794d58105726225597a51269",
+			"revisionTime": "2016-10-20T17:27:32Z"
+		},
+		{
+			"checksumSHA1": "Slx8wLbcb3GYu3sqyYKud02yzEs=",
+			"path": "github.com/knq/xo/examples/pgcatalog/pgtypes",
+			"revision": "c4e043e1633518f1794d58105726225597a51269",
+			"revisionTime": "2016-10-20T17:27:32Z"
+		},
+		{
+			"checksumSHA1": "xFKVSfe9/UduiiyMZ+IVe6VoRlQ=",
+			"path": "github.com/knq/xo/examples/postgres/models",
+			"revision": "c4e043e1633518f1794d58105726225597a51269",
+			"revisionTime": "2016-10-20T17:27:32Z"
+		},
+		{
+			"checksumSHA1": "Qtp3w2JB589dUtkYP99nDyOn9fM=",
+			"path": "github.com/knq/xo/examples/sqlite3/models",
+			"revision": "c4e043e1633518f1794d58105726225597a51269",
+			"revisionTime": "2016-10-20T17:27:32Z"
+		},
+		{
+			"checksumSHA1": "Wh+yEaRyEpn3BRFl+LMwOe0vXWQ=",
+			"path": "github.com/knq/xo/internal",
+			"revision": "c4e043e1633518f1794d58105726225597a51269",
+			"revisionTime": "2016-10-20T17:27:32Z"
+		},
+		{
+			"checksumSHA1": "2PvnNw5viFXlXgVMxCGJplLUm9Q=",
+			"path": "github.com/knq/xo/loaders",
+			"revision": "c4e043e1633518f1794d58105726225597a51269",
+			"revisionTime": "2016-10-20T17:27:32Z"
+		},
+		{
+			"checksumSHA1": "GprC6+UsdpiL2tVbcZkPFpBWBac=",
+			"path": "github.com/knq/xo/models",
+			"revision": "c4e043e1633518f1794d58105726225597a51269",
+			"revisionTime": "2016-10-20T17:27:32Z"
+		},
+		{
+			"checksumSHA1": "AJGNJRffpA77EOG+zXO2MKxWg2A=",
+			"path": "github.com/knq/xo/templates",
+			"revision": "c4e043e1633518f1794d58105726225597a51269",
+			"revisionTime": "2016-10-20T17:27:32Z"
+		},
+		{
+			"checksumSHA1": "tWHEMhN50tblgkCDDoDXXCM1ymQ=",
+			"path": "github.com/lib/pq",
+			"revision": "006a3f492338e7f74b87a2c16d2c4be10cc04ae6",
+			"revisionTime": "2022-04-13T01:12:02Z"
+		},
+		{
+			"checksumSHA1": "dA9KERIEdpylv42ZXSHIbLXc2gc=",
+			"path": "github.com/lib/pq/oid",
+			"revision": "006a3f492338e7f74b87a2c16d2c4be10cc04ae6",
+			"revisionTime": "2022-04-13T01:12:02Z"
+		},
+		{
+			"checksumSHA1": "n0MMCrKKsQuuhv7vLsrtRUGJVA8=",
+			"path": "github.com/lib/pq/scram",
+			"revision": "006a3f492338e7f74b87a2c16d2c4be10cc04ae6",
+			"revisionTime": "2022-04-13T01:12:02Z"
+		},
+		{
+			"checksumSHA1": "48fqnqznT/7gqJJ5MXLqNWLLlao=",
+			"path": "github.com/mattn/go-sqlite3",
+			"revision": "3fa1c550ffa69b74dc4bfd5109b4e218f32c87cf",
+			"revisionTime": "2019-01-04T16:17:12Z"
+		},
+		{
+			"checksumSHA1": "ridA7B3xYYHQYnPtb/nZcsXLJW0=",
+			"path": "github.com/serenize/snaker",
+			"revision": "8824b61eca66d308fcb2d515287d3d7a28dba8d6",
+			"revisionTime": "2016-03-10T08:00:04Z"
+		},
+		{
+			"checksumSHA1": "UDvj5huw3BaGehfVRCB1UGQAtP4=",
+			"path": "golang.org/x/crypto/md4",
+			"revision": "83a5a9bb288b4c9523e182ed4f621411a11de3df",
+			"revisionTime": "2020-05-10T21:28:56Z"
+		}
+	],
+	"rootPath": "github.com/kushtrimjunuzi/xo"
+}
