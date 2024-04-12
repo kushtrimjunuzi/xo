@@ -17,13 +17,15 @@ import (
 	"github.com/alexflint/go-arg"
 
 	"github.com/knq/dburl"
-	_ "github.com/knq/xo/loaders"
-	"github.com/knq/xo/models"
 	"github.com/kushtrimjunuzi/xo/internal"
+	_ "github.com/kushtrimjunuzi/xo/loaders"
+	"github.com/kushtrimjunuzi/xo/models"
 )
 
 func main() {
 	var err error
+
+	// loaders.InitPostgres()
 
 	// get defaults
 	internal.Args = internal.NewDefaultArgs()
@@ -194,6 +196,7 @@ func processArgs(args *internal.ArgType) error {
 func openDB(args *internal.ArgType) error {
 	var err error
 
+	// fmt.Println("dsn", args.DSN)
 	// parse dsn
 	u, err := dburl.Parse(args.DSN)
 	if err != nil {
@@ -202,7 +205,7 @@ func openDB(args *internal.ArgType) error {
 
 	// save driver type
 	args.LoaderType = u.Driver
-
+	// fmt.Println("driver", u.Driver)
 	// grab loader
 	var ok bool
 	args.Loader, ok = internal.SchemaLoaders[u.Driver]

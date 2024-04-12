@@ -7,7 +7,7 @@ import (
 
 	"github.com/serenize/snaker"
 
-	"github.com/knq/xo/models"
+	"github.com/kushtrimjunuzi/xo/models"
 )
 
 // NewTemplateFuncs returns a set of template funcs bound to the supplied args.

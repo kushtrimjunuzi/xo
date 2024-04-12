@@ -8,7 +8,7 @@ import (
 	"path"
 	"text/template"
 
-	"github.com/knq/xo/templates"
+	"github.com/kushtrimjunuzi/xo/templates"
 )
 
 // TemplateLoader loads templates from the specified name.
