@@ -1,3 +1,4 @@
+//go:build oracle
 // +build oracle
 
 package loaders
@@ -10,8 +11,8 @@ import (
 
 	_ "gopkg.in/rana/ora.v3"
 
-	"github.com/knq/xo/internal"
-	"github.com/knq/xo/models"
+	"github.com/kushtrimjunuzi/xo/internal"
+	"github.com/kushtrimjunuzi/xo/models"
 )
 
 func init() {

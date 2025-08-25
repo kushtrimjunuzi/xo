@@ -1,0 +1,43 @@
+# github.com/alexflint/go-arg v0.0.0-20160914014719-e6fdb157e91f
+## explicit
+github.com/alexflint/go-arg
+# github.com/denisenkom/go-mssqldb v0.0.0-20160814163324-fbf0a491e5ec
+## explicit
+github.com/denisenkom/go-mssqldb
+# github.com/gedex/inflector v0.0.0-20160409081948-91797f1712fd
+## explicit
+github.com/gedex/inflector
+# github.com/go-sql-driver/mysql v1.2.1-0.20160802113842-0b58b37b664c
+## explicit
+github.com/go-sql-driver/mysql
+# github.com/knq/dburl v0.0.0-20160714150228-6fda1305c487
+## explicit
+github.com/knq/dburl
+# github.com/lib/pq v1.10.6-0.20220413011202-006a3f492338
+## explicit; go 1.13
+github.com/lib/pq
+github.com/lib/pq/oid
+github.com/lib/pq/scram
+# github.com/mattn/go-sqlite3 v1.10.1-0.20190104161712-3fa1c550ffa6
+## explicit
+github.com/mattn/go-sqlite3
+# github.com/onsi/ginkgo v1.16.5
+## explicit; go 1.16
+# github.com/onsi/gomega v1.38.1
+## explicit; go 1.24.0
+# github.com/serenize/snaker v0.0.0-20160310080004-8824b61eca66
+## explicit
+github.com/serenize/snaker
+# github.com/stretchr/testify v1.11.0
+## explicit; go 1.17
+# golang.org/x/crypto v0.0.0-20210421170649-83a5a9bb288b
+## explicit; go 1.11
+golang.org/x/crypto/md4
+# golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9
+## explicit
+golang.org/x/sync/errgroup
+# gopkg.in/rana/ora.v3 v3.8.4
+## explicit
+gopkg.in/rana/ora.v3
+gopkg.in/rana/ora.v3/date
+gopkg.in/rana/ora.v3/num
